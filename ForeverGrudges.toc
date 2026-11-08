@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Forever Grudges |cffFFD700(Personal Player Notes)|r
+## Title-esES: Forever Grudges |cffFFD700(Rencor Eterno)|r
+## Title-esMX: Forever Grudges |cffFFD700(Rencor Eterno)|r
+## Notes: Lightweight personal player notes and memory aid with predefined tags and local alerts.
+## Notes-esES: Registro personal y ligero de notas sobre jugadores con etiquetas y alertas locales.
+## Notes-esMX: Registro personal y ligero de notas sobre jugadores con etiquetas y alertas locales.
+## Author: judelorean@proton.me
+## Version: 1.2.1
+## SavedVariables: ForeverGrudgesDB
+
+Core.lua
+UI.lua
